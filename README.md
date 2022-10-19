@@ -1,6 +1,6 @@
 - Hello every one!
 - i am offlinux.
-- i am learning programing
+- i am learning programing.
 - Thank you!
 
 <!---
